@@ -7,7 +7,7 @@
 - MongoDb
 - IDE
 
-
+--------------------------------------------------------------------------
 
 - End User -------- API Server connection: http://localhost:8080/api/movies
 - API Server ------ MongoDB server connection: mongoose
