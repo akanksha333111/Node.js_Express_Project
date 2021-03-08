@@ -1,20 +1,20 @@
 # Node.js_Express_Project
 - To store data in MongoDB and retrieving using Node.js and Express.js; furthermore, to create an endpoint in Node.js to pass on the data to the front-end i.e. create an API (Service)
 
- Required applications :
-NodeJS
-PostMan / Web brower 
-MongoDb
-IDE
+--Required applications :
+- NodeJS
+- PostMan / Web brower 
+- MongoDb
+- IDE
 
 
-End User       	           API Server	             Database Server
-Postman/Chrome	           Node Express	           MongoDB
+-End User       	           API Server	             Database Server
+-Postman/Chrome	           Node Express	           MongoDB
 
 
 
-End User -------- API Server connection: http://localhost:8080/api/movies
-API Server ------ MongoDB server connection: mongoose
+=-End User -------- API Server connection: http://localhost:8080/api/movies
+-API Server ------ MongoDB server connection: mongoose
 
 
  About Project:
