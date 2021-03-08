@@ -8,12 +8,8 @@
 - IDE
 
 
--End User       	           API Server	             Database Server
--Postman/Chrome	           Node Express	           MongoDB
 
-
-
-=-End User -------- API Server connection: http://localhost:8080/api/movies
+-End User -------- API Server connection: http://localhost:8080/api/movies
 -API Server ------ MongoDB server connection: mongoose
 
 
